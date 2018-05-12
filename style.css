@@ -28,6 +28,8 @@ ul{
 	list-style: none;
 }
 
+
+
 #banner {
 	text-align: center;
 	background-image: url("https://picsum.photos/1300/600/?random");
@@ -43,15 +45,16 @@ ul{
 
 }
 
-#footer {
-	background-color: black;
-	color:white;
-	padding: 20px;
+#cardz{
+	background-color: #D4E4BC;
 }
+
 .social {
 	list-style: none; 
 }
 
-.cardze{
-background-color: grey;
+#footer {
+	background-color: black;
+	color:white;
+	padding: 20px;
 }
